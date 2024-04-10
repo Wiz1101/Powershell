@@ -65,6 +65,12 @@ Here's an example of listing the directories and just selecting the mode and the
 
 ![Screenshot 2024-04-10 at 20 41 02](https://github.com/Wiz1101/Powershell/assets/77725643/3435a1d7-33d0-45f2-a98f-7d0042def631)
 
+## Filtering Objects
+
+
+
+
+
 
 
 
